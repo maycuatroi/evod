@@ -1,0 +1,6 @@
+setuptools
+django
+djangorestframework
+markdown
+django-filter
+django-firebase-auth
